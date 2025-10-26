@@ -1,0 +1,13 @@
+2025-09-04 17:13:18,453 DEBUG this is my debug message 
+2025-09-04 17:13:18,454 INFO this is info message
+2025-09-04 17:13:18,454 ERROR this is my error message
+2025-09-04 17:13:18,454 WARNING this is wanrning message
+2025-09-04 17:46:41,119 INFO processing each item 4
+2025-09-04 17:46:41,120 INFO processing each item [9, 'orange']
+2025-09-04 17:46:41,120 INFO processing sub list 9
+2025-09-04 17:46:41,120 INFO processing sub list orange
+2025-09-04 17:46:41,121 INFO processing each item mango
+2025-09-04 17:46:41,121 INFO processing each item 78
+2025-09-04 17:46:41,121 INFO processing each item ['potato', 67]
+2025-09-04 17:46:41,121 INFO processing sub list potato
+2025-09-04 17:46:41,122 INFO processing sub list 67

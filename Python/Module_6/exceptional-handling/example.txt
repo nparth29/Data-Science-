@@ -1,0 +1,1 @@
+this line is written inside try block ( cell 12 of notebook)appended second line using 'a' mode code inside fially will always run!!

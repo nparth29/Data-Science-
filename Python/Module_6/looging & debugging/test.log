@@ -1,0 +1,7 @@
+INFO:root:this is my normal information about software
+WARNING:root:there might be empty list here
+ERROR:root:some error has happend
+CRITICAL:root:The software is stop working 
+INFO:root:this is info message
+ERROR:root:this is my error message
+WARNING:root:this is wanrning message
