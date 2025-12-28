@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Experience
+Alice,25.0,50000.0,HR,2.0
+Bob,,54000.0,IT,4.0
+Charlie,30.0,,,
+David,22.0,58000.0,Finance,3.0
+Eve,,60000.0,Finance,5.0
+Frank,29.0,,HR,6.0
+Grace,31.0,62000.0,IT,
+Hank,,64000.0,,8.0
+Ivy,27.0,,Finance,10.0
+Jack,35.0,70000.0,HR,
